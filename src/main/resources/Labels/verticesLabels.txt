@@ -1,0 +1,8 @@
+person
+post
+company
+university
+group
+page
+comment
+tag

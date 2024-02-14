@@ -1,0 +1,10 @@
+studyAt
+adminOf
+creat
+memberOf
+worksAt
+commented
+likes
+knows
+posted
+hasCreateor
